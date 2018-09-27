@@ -1,0 +1,5 @@
+let food = ['Pecan Pie', 'Shrimp', 'Quesadilla', 'Cheese cake', 'Hotdog'];
+
+for (let i = 0; i , food.length; i++){
+    console.log(i)
+}
